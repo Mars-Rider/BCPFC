@@ -506,7 +506,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "BCP FC Cool.glb",
+      "step": "BCP FC.step",
       "svg": "",
       "vrml": ""
     },

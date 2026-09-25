@@ -1,0 +1,50 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+156.464,-105.636,90.0,top,A33,,,TerminalBlock_bornier-2_P5.08mm,Screw_Terminal_01x02,tht
+157.988,-53.848,0.0,top,ARM1,,,TerminalBlock_bornier-2_P5.08mm,Screw_Terminal_01x02,tht
+179.324,-113.03,180.0,top,BT1,,,TerminalBlock_bornier-2_P5.08mm,Battery,tht
+168.148,-90.932,-90.0,top,BZ1,,,Buzzer_12x8.5,Buzzer,tht
+158.242,-95.25,0.0,bottom,C10,,,C_0805_2012Metric,10uF,smt
+170.434,-99.126,90.0,bottom,C11,,,C_0805_2012Metric,0.1uF,smt
+179.258,-53.34,0.0,bottom,C2,,,C_0805_2012Metric,0.1uF,smt
+162.118,-108.712,180.0,bottom,C3,,,C_0805_2012Metric,1uF,smt
+163.576,-113.726,-90.0,bottom,C4,,,C_0805_2012Metric,1uF,smt
+173.482,-100.772,-90.0,top,C5,,,C_0805_2012Metric,0.1uF,smt
+162.367,-101.473,180.0,top,C6,,,C_0805_2012Metric,1uF,smt
+178.562,-55.184,90.0,top,C7,,,C_0805_2012Metric,0.1uF,smt
+175.514,-64.45,90.0,bottom,C8,,,C_0805_2012Metric,10uF,smt
+155.4975,-91.694,90.0,top,C9,,,PTKL554P,PTKL554P,tht
+156.972,-110.112,-90.0,bottom,D3,,,D_SOD-123F,MBR1020VL,smt
+165.862,-113.408,-90.0,bottom,D4,,,D_SOD-123F,MBR1020VL,smt
+161.036,-113.408,-90.0,bottom,D5,,,D_SOD-123F,MBR1020VL,smt
+156.972,-114.071,90.0,top,D6,,,LED_0805_2012Metric,GENERIC GREEN,smt
+169.672,-114.1245,90.0,top,D7,,,LED_0805_2012Metric,GENERIC YELLOW,smt
+180.34,-59.944,-90.0,top,I2c1,,,TerminalBlock_bornier-2_P5.08mm,Screw_Terminal_01x02,tht
+171.704,-53.3685,90.0,bottom,J10,,,SMA_Amphenol_132289_EdgeMount,Conn_Coaxial,smt
+163.324,-113.225,0.0,top,P1,,,USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal,USB_C_Plug_USB2.0,smt
+180.34,-89.916,-90.0,top,PYR1,,,TerminalBlock_bornier-2_P5.08mm,Screw_Terminal_01x02,tht
+180.34,-100.584,-90.0,top,PYR2,,,TerminalBlock_bornier-2_P5.08mm,Screw_Terminal_01x02,tht
+175.26,-104.038,90.0,bottom,Q1,,,SOT-223-3_TabPin2,NDT3055L,smt
+169.5935,-93.98,180.0,bottom,Q3,,,SOT-23,MMBT2222A,smt
+175.26,-93.066,90.0,bottom,Q5,,,SOT-223-3_TabPin2,NDT3055L,smt
+176.6335,-87.376,0.0,bottom,R11,,,R_0805_2012Metric,10k,smt
+180.3965,-87.376,180.0,bottom,R12,,,R_0805_2012Metric,10k,smt
+169.672,-109.3235,-90.0,bottom,R13,,,R_0805_2012Metric,10k,smt
+169.672,-113.3875,90.0,bottom,R14,,,R_0805_2012Metric,10k,smt
+177.038,-59.0315,-90.0,bottom,R15,,,R_0805_2012Metric,4.7k,smt
+175.514,-67.9685,-90.0,bottom,R16,,,R_0805_2012Metric,4.7k,smt
+154.686,-64.9205,-90.0,bottom,R18,,,R_0805_2012Metric,10K,smt
+154.686,-61.3645,90.0,bottom,R19,,,R_0805_2012Metric,10K,smt
+161.544,-98.6555,-90.0,top,R20,,,R_0805_2012Metric,10k,smt
+156.972,-110.49,90.0,top,R6,,,R_0805_2012Metric,120,smt
+177.3955,-98.552,180.0,bottom,R7,,,R_0805_2012Metric,10k,smt
+173.6325,-98.552,0.0,bottom,R8,,,R_0805_2012Metric,10k,smt
+169.672,-110.5643,90.0,top,R9,,,R_0805_2012Metric,120,smt
+173.99,-105.342,90.0,top,SW1,,,SW_Push_SPST_NO_Alps_SKRK,SW_Push,smt
+162.306,-105.342,90.0,top,SW2,,,SW_Push_SPST_NO_Alps_SKRK,SW_Push,smt
+179.832,-56.2845,0.0,bottom,U1,,LGA-14 Bosch Sensortec,XDCR_BMI270,BMI270,smt
+181.61,-85.344,180.0,top,U2,,,DIP-8_W7.62mm_Socket,24LC128,tht
+165.072,-65.008,0.0,bottom,U3,,,MODULE_RFM96W-433S2,RFM96W-433S2,smt
+161.326,-103.1,90.0,bottom,U4,,,IC_TPS73733DCQR,TPS73733DCQR,tht
+165.691,-66.036,0.0,top,U5,,,ublox_SAM-M8Q,SAM-M8Q,smt
+163.866,-80.88,90.0,top,U7,,,ESP32-C3-MINI-1,ESP32-C3-MINI-1,smt
+181.099,-55.63,0.0,top,U9,,WFLGA-10 Bosch Tools,PQFN50P200X200X80-10N,BMP388,smt

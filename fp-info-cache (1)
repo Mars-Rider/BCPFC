@@ -1,4 +1,4 @@
-24868151521516290
+24855464466694673
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -8695,13 +8695,6 @@ SMA THT Female Jack Horizontal
 2
 Connector_Coaxial
 SMA_Amphenol_132289_EdgeMount
-https://www.amphenolrf.com/library/download/link/link_id/595984/parent/132289/
-SMA
-0
-5
-2
-Connector_Coaxial
-SMA_Amphenol_132289_EdgeMount_Vertical
 https://www.amphenolrf.com/library/download/link/link_id/595984/parent/132289/
 SMA
 0
@@ -35211,13 +35204,6 @@ Through hole angled pin header THT 1x01 2.54mm single row
 1
 Connector_PinHeader_2.54mm
 PinHeader_1x01_P2.54mm_Vertical
-Through hole straight pin header, 1x01, 2.54mm pitch, single row
-Through hole pin header THT 1x01 2.54mm single row
-0
-1
-1
-Connector_PinHeader_2.54mm
-PinHeader_1x01_P2.54mm_Vertical_NOSILK
 Through hole straight pin header, 1x01, 2.54mm pitch, single row
 Through hole pin header THT 1x01 2.54mm single row
 0
@@ -93365,41 +93351,6 @@ Logo WEEE
 0
 0
 0
-TMC2209
-MODULE_TMC2209_SILENTSTEPSTICK
-
-
-0
-18
-18
-TPS7A4533DCQR
-DCQ0006A-IPC_A
-
-TPS7A4533DCQT 
-0
-6
-6
-TPS7A4533DCQR
-DCQ0006A-IPC_B
-
-TPS7A4533DCQT 
-0
-6
-6
-TPS7A4533DCQR
-DCQ0006A-IPC_C
-
-TPS7A4533DCQT 
-0
-6
-6
-TPS7A4533DCQR
-DCQ0006A-MFG
-
-TPS7A4533DCQT 
-0
-10
-10
 TPS737
 IC_TPS73733DCQR
 

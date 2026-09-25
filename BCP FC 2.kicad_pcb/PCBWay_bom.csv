@@ -1,0 +1,22 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,Sim.Pins,PATREV,MF,MAXIMUM_PACKAGE_HEIGHT,Price,Check_prices,STANDARD,SnapEDA_Link,MP,Description_1,Availability,MANUFACTURER,PARTREV
+"C10, C8",2,10uF,C_0805_2012Metric,,,,smt,Unpolarized capacitor,,,,,,,,,,,,,
+"C11, C2, C5, C7",4,0.1uF,C_0805_2012Metric,,,,smt,Unpolarized capacitor,,,,,,,,,,,,,
+"C3, C4, C6",3,1uF,C_0805_2012Metric,,,,smt,Unpolarized capacitor,,,,,,,,,,,,,
+"D3, D4, D5",3,MBR1020VL,D_SOD-123F,,,,smt,"20V, 1A, 340 mV, Schottky Diode Rectifier, SOD-123F",,,,,,,,,,,,,
+D6,1,GENERIC GREEN,LED_0805_2012Metric,,,,smt,Light emitting diode,1=K 2=A,,,,,,,,,,,,
+D7,1,GENERIC YELLOW,LED_0805_2012Metric,,,,smt,Light emitting diode,1=K 2=A,,,,,,,,,,,,
+J10,1,Conn_Coaxial,SMA_Amphenol_132289_EdgeMount,,,,smt,"coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)",,,,,,,,,,,,,
+P1,1,USB_C_Plug_USB2.0,USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal,,,,smt,USB 2.0-only Type-C Plug connector,,,,,,,,,,,,,
+"Q1, Q5",2,NDT3055L,SOT-223-3_TabPin2,,,,smt,"4A Id, 60V Vds, N-Channel Logic Level Enhancement Mode MOSFET, SOT-223",,,,,,,,,,,,,
+Q3,1,MMBT2222A,SOT-23,,,,smt,"600mA Ic, 40V Vce, NPN Transistor, SOT-23",,,,,,,,,,,,,
+"R11, R12, R13, R14, R20, R7, R8",7,10k,R_0805_2012Metric,,,,smt,"Resistor, US symbol",,,,,,,,,,,,,
+"R15, R16",2,4.7k,R_0805_2012Metric,,,,smt,"Resistor, US symbol",,,,,,,,,,,,,
+"R18, R19",2,10K,R_0805_2012Metric,,,,smt,"Resistor, US symbol",,,,,,,,,,,,,
+"R6, R9",2,120,R_0805_2012Metric,,,,smt,"Resistor, US symbol",,,,,,,,,,,,,
+"SW1, SW2",2,SW_Push,SW_Push_SPST_NO_Alps_SKRK,,,,smt,"Push button switch, generic, two pins",,,,,,,,,,,,,
+U1,1,BMI270,XDCR_BMI270,LGA-14 Bosch Sensortec,,,smt,,,1.0,Bosch Sensortec,0.87mm,None,https://www.snapeda.com/parts/BMI270/Bosch/view-part/?ref=eda,Manufacturer Recommendations,https://www.snapeda.com/parts/BMI270/Bosch/view-part/?ref=snap,BMI270,"Accelerometer, Gyroscope, 6 Axis Sensor I2C, SPI Output",In Stock,Bosch Sensortec,
+U3,1,RFM96W-433S2,MODULE_RFM96W-433S2,,,,smt,"Low power long range transceiver module, SPI and parallel interface, 433 MHz, spreading factor 6 to12, bandwidth 7.8 to 500kHz, -111 to -148 dBm, SMD-16, DIP-16",,,,,,,,,,,,,
+U4,1,TPS73733DCQR,IC_TPS73733DCQR,,,,tht,,,,,1.8 mm,,,Manufacturer Recommendations,,,,,Texas Instruments,R
+U5,1,SAM-M8Q,ublox_SAM-M8Q,,,,smt,GPS ublox M8 variant,,,,,,,,,,,,,
+U7,1,ESP32-C3-MINI-1,ESP32-C3-MINI-1,,,,smt,ESP32-C3-MINI-1 family is an ultra-low-power MCU-based SoC solution that supports 2.4 GHz Wi-Fi and Bluetooth®Low Energy (Bluetooth LE).,,,,,,,,,,,,,
+U9,1,BMP388,PQFN50P200X200X80-10N,WFLGA-10 Bosch Tools,,,smt,,,,Bosch Sensortec,,None,https://www.snapeda.com/parts/BMP388/Bosch/view-part/?ref=eda,IPC 7351B,https://www.snapeda.com/parts/BMP388/Bosch/view-part/?ref=snap,BMP388,Pressure Sensor 4.35PSI ~ 18.13PSI (30kPa ~ 125kPa) Absolute - - 10-WFLGA,In Stock,BOSCH,1.1
